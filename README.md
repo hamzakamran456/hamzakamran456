@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Hamza Kamran</h1>
+<h1 align="center">Hi 👋, I'm Hamza Kamran</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -33,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzakamran456&show_icons=true&locale=en&layout=compact" alt="hamzakamran456" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzakamran456&show_icons=true&locale=en" alt="hamzakamran456" /></p>
-
-</body>
-</html>
