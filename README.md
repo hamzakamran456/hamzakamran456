@@ -7,7 +7,7 @@
 
 - 🌱 Focused on becoming a well-rounded developer who ships great user experiences.
 
-- 👨‍💻 All of my projects are available at [https://github.com/hamzadanger?tab=repositories](https://github.com/hamzadanger?tab=repositories)
+- 👨‍💻 All of my projects are available at [[https://github.com/hamzadanger?tab=repositories](https://github.com/hamzadanger?tab=repositories)]
 
 - 📫 How to reach me **hamzakamrn8@gmail.com**
 
