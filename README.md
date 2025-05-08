@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakamran456&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakamran456" /> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 Focused on becoming a well-rounded developer who ships great user experiences.
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzadanger?tab=repositories](https://github.com/hamzadanger?tab=repositories)
 
